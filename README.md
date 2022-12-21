@@ -12,5 +12,5 @@ Learned and worked with:
 
 Screenshots:
 --------------------
-![](/img/1.gif)
+![1](https://user-images.githubusercontent.com/55058143/208988352-b7042391-8ed5-4c08-8f08-fad2be9f5dca.gif)
 
