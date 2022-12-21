@@ -12,5 +12,6 @@ Learned and worked with:
 
 Screenshots:
 --------------------
-![1](https://user-images.githubusercontent.com/55058143/208988352-b7042391-8ed5-4c08-8f08-fad2be9f5dca.gif)
+![1 1](https://user-images.githubusercontent.com/55058143/208988794-b50f9ae0-05e0-4def-aa8d-12e3a6b2ad31.gif)
+
 
