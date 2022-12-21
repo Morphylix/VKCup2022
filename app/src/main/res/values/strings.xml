@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dzen Test</string>
+    <string name="continue_button_text">Продолжить</string>
+    <string name="skip_button_text">Позже</string>
+    <string name="toolbar_text_view_text">Отметьте то, что вам интересно, чтобы настроить Дзен</string>
+</resources>
